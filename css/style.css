@@ -1,0 +1,25 @@
+.box{
+	height: 100px;
+	background-color: teal;
+	margin-bottom: 10px;
+}
+.box2{
+	height: 100px;
+	background-color: violet;
+	margin-bottom: 10px;
+}
+.box3{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.box4{
+	height: 100px;
+	background-color: skyblue;
+	margin-bottom: 10px;
+}
+.box5{
+	height: 100px;
+	background-color: seagreen;
+	margin-bottom: 10px;
+}
